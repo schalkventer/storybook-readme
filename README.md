@@ -197,7 +197,7 @@ Will be applied for series of stories.
       StoryPreview: ({ children}) => <div>{children}</div>
 
       /**
-       * Wrapper for hedaer docs. Usually used to set some styles
+       * Wrapper for header docs. Usually used to set some styles
        * NOTE: will be applied only for content docs (docs around the story)
        *
        * React: React.ReactNode
